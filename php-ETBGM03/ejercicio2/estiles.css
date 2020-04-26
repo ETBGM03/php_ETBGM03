@@ -1,0 +1,40 @@
+.formu {
+  width: 310px;
+  height: 360px;
+  border: 1px red;
+  background: gray;
+  border-radius: 10px 10px 10px 10px;
+  position: relative;
+  margin: 35%;
+  bottom: 200px;
+}
+body {
+  background: coral;
+}
+#oe {
+  width: 80px;
+  float: right;
+  position: relative;
+  bottom: -5px;
+  margin: 6%;
+  
+  
+
+}
+label{
+    width: 10px;
+}
+
+
+.formu2 {
+    
+    width: 300px;
+    height: 200px;
+
+}
+.mundo{
+    width: 310px;
+    line-height: 60px;
+
+    
+}

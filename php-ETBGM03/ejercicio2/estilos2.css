@@ -1,0 +1,11 @@
+body {
+  background: #4ad890;
+}
+#nom {
+  width: 400px;
+  height: 200px;
+  background: #df515c;
+  margin: 30%;
+  margin-top: 150px;
+  border-radius: 10px 10px 10px 10px;
+}

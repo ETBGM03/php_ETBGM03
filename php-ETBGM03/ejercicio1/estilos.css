@@ -1,0 +1,40 @@
+.formu{
+    width: 310px;
+    height: 300px;
+    border: 1px red;
+    background: green;
+    position: relative;
+    margin: 35%;
+    bottom: 200px;
+    
+}
+body{
+    background: cadetblue;
+}
+
+.oe{
+    width: 100px;
+    margin: 1%;
+}
+label{
+    display: block;
+    padding-left: 15px;
+    text-indent: -10px;
+}
+.oe{
+        width: 63px;
+        height: 12px;
+        padding: 1px;
+        margin:9px;
+        float: right;
+        position: relative;
+        bottom: 20px;
+        border-radius: 5px 5px 5px 5px;
+        
+
+}
+.munod{
+    position: relative;
+    bottom: 20px;
+    
+}
