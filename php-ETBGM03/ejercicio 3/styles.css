@@ -1,0 +1,44 @@
+body{
+    background: #86d30d;
+}
+.nose{
+    width: 400px;
+    height: 300px;
+    background: #de830b;
+    margin: 280px;
+    margin-top: 130px;
+    border-radius: 10px 10px 10px 10px;
+}
+#sisé{
+    width: 340px;
+    height: 230px;
+    margin: 30px;
+    margin-top: 10px;
+    line-height: 60px;
+}
+label{
+    width: 40px;
+    
+
+}
+
+#ola{
+    border-radius: 5px 5px 5px 5px;
+    width: 100px;
+    margin: 10px;   
+    float: right;
+    margin-top: 20px;
+
+
+}
+#ola2{
+    width: 60px;
+    height: 30px;
+    margin: 5%;
+
+    border-radius: 5px 5px 5px 5px;
+    background:#1d9670;
+}
+h1{
+    text-align: center;
+}
