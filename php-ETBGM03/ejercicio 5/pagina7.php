@@ -19,8 +19,11 @@
         if ($claveP == 1) {
             echo 'el valor del articulo con el descuento es: ' . $p1 . '<br>';
         }
-        else {
+        elseif ($claveP == 2) {
             echo 'el valor del articulo con el descuento es: ' . $p2 . '<br>';
+        }
+        else {
+            echo 'usted no tiene ningun descuento';
         }
 
         

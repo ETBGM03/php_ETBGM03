@@ -18,7 +18,7 @@
         $notafinal = $_POST['notafinal'];
         $notatrabajofinal = $_POST['notatrabajofinal'];
 
-        $det = ($nota2 + $nota2 + $nota3) / 3;
+        $det = ($nota1 + $nota2 + $nota3) / 3;
         $res = ($det * 0.35);
 
         $nof = ($notafinal * 0.35);
