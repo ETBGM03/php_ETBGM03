@@ -1,0 +1,14 @@
+body{
+    background: #eccd06;
+}
+.hola{
+    background: grey;
+    width: 300px;
+    height: 250px;
+    border-radius: 12px 12px 12px 12px;
+    margin: 330px;
+    margin-top: 100px;
+}
+h1{
+    text-align: center;
+}
