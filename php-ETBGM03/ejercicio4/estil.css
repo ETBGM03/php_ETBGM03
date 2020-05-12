@@ -1,0 +1,20 @@
+body{
+    background: #eaae09;
+}
+
+#jue{
+    margin: 260px;
+    background: #09eaa4;
+    width: 430px;
+    height: 200px;
+    border-radius: 10px 10px 10px 10px;
+    text-shadow: 5px 5px 25px #222 inset;
+}
+.in01{
+    border-radius: 5px 5px 5px 5px;
+    background: honeydew;
+    margin: 20px;
+}
+#in02{
+    border-radius: 5px 5px 5px 5px;
+}

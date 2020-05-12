@@ -18,7 +18,7 @@
         $salario = (450000);
         $comi = (50000);
         $pro = ($autovendido * $comi);
-        $venta = ($precioA * 0.5);
+        $venta = ($precioA * 5/100);
         $ST = ($pro + $venta + $salario);
         ?>
         nombre del vendedor es: <?php echo $nombre ?>
