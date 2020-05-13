@@ -3,7 +3,7 @@ body {
 }
 .lol {
   background: teal;
-  width: 330px;
+  width: 300px;
   height: 230px;
   margin: 330px;
   margin-top: 190px;
@@ -14,7 +14,7 @@ body {
   height: 11px;
   float: right;
   position: relative;
-  bottom: -5px;
+  bottom: -1px;
   border-radius: 5px 5px 5px 5px;
 }
 .asd02 {
@@ -22,13 +22,17 @@ body {
   height: 11px;
   float: right;
   position: relative;
-  bottom: -4px;
+  bottom: -6px;
   border-radius: 5px 5px 5px 5px;
+  
   
 }
 
 .io {
   margin-top: 25px;
+  border-radius: 5px 5px 5px 5px;
+  margin: 20px;
+  height: 25px;
 }
 .asd03{
     width: 73px;
